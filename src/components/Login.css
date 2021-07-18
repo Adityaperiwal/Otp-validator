@@ -1,0 +1,30 @@
+.input-xs {
+    width: 14.5%;
+    padding: 12px 20px;
+    margin: 5px 5px 5px 5px;
+    box-sizing: border-box;
+    
+  }
+
+  .input-sm {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 5px 5px 5px 5px;
+    box-sizing: border-box;   
+  }
+
+  .invalid-input {
+    border: 3px solid red;
+    outline:none;
+  }
+
+  button,  input[type="submit"]{
+      width: 10%;
+      padding: 12px 20px;
+      margin: 5px 5px 5px 5px;
+      box-sizing: border-box;
+      background-color: red; 
+      color : white;
+      border : none;
+      cursor: pointer; 
+  }
